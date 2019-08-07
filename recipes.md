@@ -1,7 +1,7 @@
 ---
 title: Trending Themes
 layout: collection
-permalink: /trendinthems/
+permalink: /_recipes/
 collection: recipes
 entries_layout: grid
 ---
