@@ -2,17 +2,17 @@
 
 - title: home
   url: /
-- title: Posts
+- title: 
   url: /posts/
-- title: Php
+- title: 
   url: /php/
-- title: Html
+- title: 
   url: /posts/
-- title: Categories
+- title: 
   url: /categories/
-- title: Tags
+- title: 
   url: /tags/
-- title: Recipes
+- title: Trending Themes
   url: /recipes/
 - title: Search
   url: /search/
