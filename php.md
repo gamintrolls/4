@@ -1,7 +1,7 @@
 ---
-title: php
+title: PHP
 layout: collection
-permalink: /php/
-show_excerpts: true
-entries_layout: list
+permalink: /_php/
+collection: recipes
+entries_layout: grid
 ---
