@@ -86,6 +86,14 @@ defaults:
       layout: post
       comments: true
       share: true
+  # Php defaults
+  - scope:
+      path: "_php"
+      type: php
+    values:
+      layout: post
+      comments: true
+      share: true
 
 # Site Author
 author:
