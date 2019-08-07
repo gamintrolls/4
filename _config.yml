@@ -27,7 +27,7 @@ liquid:
   error_mode: strict
 
 # Build settings
-permalink: /404.html
+permalink: 
 markdown: kramdown
 feed:
   path: atom.xml
