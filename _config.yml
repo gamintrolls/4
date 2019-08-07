@@ -97,7 +97,7 @@ defaults:
   # Php defaults
   - scope:
       path: "_php"
-      type: php
+      type: phpz
     values:
       layout: post
       comments: true
