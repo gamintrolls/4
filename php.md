@@ -1,7 +1,7 @@
 ---
-title: PHP
-layout: collection
+title: Post Archive
+layout: posts
 permalink: /_php/
-collection: php
-entries_layout: grid
+show_excerpts: true
+entries_layout: list
 ---
