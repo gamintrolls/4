@@ -97,7 +97,7 @@ defaults:
   # Php defaults
   - scope:
       path: "_php"
-      type: recipes
+      type: post
     values:
       layout: post
       comments: true
