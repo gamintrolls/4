@@ -1,5 +1,7 @@
 # Site navigation links
 
+- title: home
+  url: /
 - title: Posts
   url: /posts/
 - title: Php
