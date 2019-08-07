@@ -73,7 +73,7 @@ defaults:
   # Post defaults
   - scope:
       path: "/"
-      type: Index
+      type: index
     values:
       layout: post
       comments: true
@@ -97,7 +97,7 @@ defaults:
   # Php defaults
   - scope:
       path: "_php"
-      type: phpz
+      type: php
     values:
       layout: post
       comments: true
