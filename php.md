@@ -1,8 +1,8 @@
 ---
-title: Recipes
+title: php
 layout: collection
 permalink: /php/
-collection: recipes
+collection: php
 paginate: true
 entries_layout: grid
 ---
