@@ -2,7 +2,6 @@
 title: php
 layout: collection
 permalink: /php/
-collection: php
-paginate: true
+collection: recipes
 entries_layout: grid
 ---
