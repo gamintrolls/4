@@ -1,6 +1,6 @@
 ---
 title: Post Archive
-layout: posts
+layout: collection
 permalink: /_php/
 show_excerpts: true
 entries_layout: list
