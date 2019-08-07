@@ -72,6 +72,14 @@ collections:
 defaults:
   # Post defaults
   - scope:
+      path: "/"
+      type: Index
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Post defaults
+  - scope:
       path: "_posts"
       type: posts
     values:
