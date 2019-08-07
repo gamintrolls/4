@@ -2,6 +2,6 @@
 title: PHP
 layout: collection
 permalink: /_php/
-collection: recipes
+collection: php
 entries_layout: grid
 ---
