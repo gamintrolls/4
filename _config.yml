@@ -66,7 +66,7 @@ plugins:
 collections:
   recipes:
     output: true
-    permalink: /404.html
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
